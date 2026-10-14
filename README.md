@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Keith 👋
 
-<!--
-**keithintrinidad/keithintrinidad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm based in Trinidad and Tobago, and I make small, free prayer apps for
+Catholics: tools to help with the Rosary, with Mass and Adoration, and with
+everyday prayer.
 
-Here are some ideas to get you started:
+## How these apps are made
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't write the code myself. Each app is built by **Claude**, an AI model
+from Anthropic, from my prompts and direction. I decide what each app
+should contain and how it should work, and Claude builds it. I say so openly
+so there's never any question about who built what.
+
+## The apps
+
+| App | Use it | Source |
+|---|---|---|
+| **Rosary Helper** | [Open the app](https://keithintrinidad.github.io/Rosary-Helper/) | [Repo](https://github.com/keithintrinidad/Rosary-Helper) |
+| **Catholic Prayers** | [Open the app](https://keithintrinidad.github.io/Catholic-Prayers/) | [Repo](https://github.com/keithintrinidad/Catholic-Prayers) |
+| **Bread of the Presence** | [Open the app](https://keithintrinidad.github.io/Bread-of-the-Presence/) | [Repo](https://github.com/keithintrinidad/Bread-of-the-Presence) |
+
+They install on a phone's home screen like a normal app and keep working
+without a connection once opened.
+
+## Free, and staying free
+
+All three are licensed
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/):
+free to share and adapt, never for sale, and any version made from them
+must stay free too.
