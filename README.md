@@ -18,13 +18,14 @@ so there's never any question about who built what.
 | **Rosary Helper** | [Open the app](https://keithintrinidad.github.io/Rosary-Helper/) | [Repo](https://github.com/keithintrinidad/Rosary-Helper) |
 | **Catholic Prayers** | [Open the app](https://keithintrinidad.github.io/Catholic-Prayers/) | [Repo](https://github.com/keithintrinidad/Catholic-Prayers) |
 | **Bread of the Presence** | [Open the app](https://keithintrinidad.github.io/Bread-of-the-Presence/) | [Repo](https://github.com/keithintrinidad/Bread-of-the-Presence) |
+| **Catechism in One Year** | [Open the app](https://keithintrinidad.github.io/Catechism-in-One-Year/) | [Repo](https://github.com/keithintrinidad/Catechism-in-One-Year) |
 
 They install on a phone's home screen like a normal app and keep working
 without a connection once opened.
 
 ## Free, and staying free
 
-All three are licensed
+All four are licensed
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/):
 free to share and adapt, never for sale, and any version made from them
 must stay free too.
