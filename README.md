@@ -1,8 +1,8 @@
 # Hi, I'm Keith 👋
 
-I'm based in Trinidad and Tobago, and I make small, free prayer apps for
-Catholics: tools to help with the Rosary, with Mass and Adoration, and with
-everyday prayer.
+I'm based in Trinidad and Tobago, and I make small, free apps for
+Catholics: tools to help with the Rosary, with Mass and Adoration, with
+everyday prayer, and studying the Catechism.
 
 ## How these apps are made
 
