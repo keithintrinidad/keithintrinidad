@@ -19,6 +19,7 @@ so there's never any question about who built what.
 | **Catholic Prayers** | [Open the app](https://keithintrinidad.github.io/Catholic-Prayers/) | [Repo](https://github.com/keithintrinidad/Catholic-Prayers) |
 | **Bread of the Presence** | [Open the app](https://keithintrinidad.github.io/Bread-of-the-Presence/) | [Repo](https://github.com/keithintrinidad/Bread-of-the-Presence) |
 | **Catechism in One Year** | [Open the app](https://keithintrinidad.github.io/Catechism-in-One-Year/) | [Repo](https://github.com/keithintrinidad/Catechism-in-One-Year) |
+| **Return - A Reconciliation Companion** | [Open the app](https://keithintrinidad.github.io/Return/) | [Repo](https://github.com/keithintrinidad/Return) |
 
 They install on a phone's home screen like a normal app and keep working
 without a connection once opened.
