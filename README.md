@@ -15,7 +15,7 @@ so there's never any question about who built what.
 
 | App | Use it | Source |
 |---|---|---|
-| **Rosary Helper** | [Open the app](https://keithintrinidad.github.io/Rosary-Helper/) | [Repo](https://github.com/keithintrinidad/Rosary-Helper) |
+| **Rosary Helper - A free offline companion for praying the Rosary** | [Open the app](https://keithintrinidad.github.io/Rosary-Helper/) | [Repo](https://github.com/keithintrinidad/Rosary-Helper) |
 | **Catholic Prayers - A Companion for Everyday Catholic Prayer in English** | [Open the app](https://keithintrinidad.github.io/Catholic-Prayers/) | [Repo](https://github.com/keithintrinidad/Catholic-Prayers) |
 | **Bread of the Presence - A Companion for Mass and Eucharistic Adoration** | [Open the app](https://keithintrinidad.github.io/Bread-of-the-Presence/) | [Repo](https://github.com/keithintrinidad/Bread-of-the-Presence) |
 | **Catechism in One Year - A 365-day Reading Plan through the Catechism of the Catholic Church** | [Open the app](https://keithintrinidad.github.io/Catechism-in-One-Year/) | [Repo](https://github.com/keithintrinidad/Catechism-in-One-Year) |
